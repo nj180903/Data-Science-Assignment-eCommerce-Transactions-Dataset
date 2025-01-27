@@ -25,4 +25,4 @@ This repository contains the following tasks and corresponding files for a Data-
 - Niharika_Jain_Clustering.pdf 
 - Niharika_Jain_Clustering.ipynb 
   
-Make sure to check the notebooks for the implementation details and the PDF reports for the summarized insights and results.
+
